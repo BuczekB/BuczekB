@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buczekb&label=Profile%20views&color=0e75b6&style=flat" alt="buczekb" /> </p>
 
-- 🔭 I’m currently working on [3D-portfolio](buczekb.github.io/3D-portfolio/)
+- 🔭 I’m currently working on https://buczekb.github.io/3D-portfolio/
 
 - 🌱 I’m currently learning **threeJS**
 
-- 👨‍💻 All of my projects are available at [buczekb.github.io/3D-portfolio/](buczekb.github.io/3D-portfolio/)
+- 👨‍💻 All of my projects are available at https://github.com/BuczekB/3D-portfolio/tree/master 
 
 - 📫 How to reach me **buczynskijakub10@gmail.com**
 
